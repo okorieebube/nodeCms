@@ -1,7 +1,7 @@
 # nodeCms
 My first NodeJS project, also containing a real-time chat system with Socket.io JS library.
 ## Installation
-* Run mongod command to start mongoDB.
+* To start mongo db, cd into mongo/bin folder then enter mongod.
 * Install node_modules by running 
 `npm i`
 * Run this command on CLI to start the node project 
