@@ -4,7 +4,7 @@ My first NodeJS project, also containing a real-time chat system with Socket.io 
 * Run mongod command to start mongoDB.
 * Install node_modules by running 
 ```bash
-npm install foobar
+npm i
 ```
 * Run this command on CLI to start the node project 
 ```bash
